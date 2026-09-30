@@ -1,0 +1,31 @@
+[
+  {
+    "_id": "5ab8228ff87058e6df6e2a18",
+    "createdAt": "2026-09-29T08:02:34.268Z",
+    "name": "Trader Demo",
+    "email": "user@tradex.com",
+    "password": "2cf355606c1026cf8ed0cd08828fe2b5:88c6db4c48502c5817c61369743312508db9b99add9c3b58298cefb8bae3828bb0d39ca90495022a770cd8bc6cf609212e9e3fbe1745c3f509378f8d3b8bf699",
+    "role": "user",
+    "virtualBalance": 96525,
+    "updatedAt": "2026-09-29T10:12:13.482Z"
+  },
+  {
+    "_id": "3312007246bfd563161283bf",
+    "createdAt": "2026-09-29T08:02:34.339Z",
+    "name": "TradeX Admin",
+    "email": "admin@tradex.com",
+    "password": "e86b1d49c391da5ae5102be7e1024863:5e905ecd8503c117bee563270c8c95fc4de71ffc19aebb4992bd0b010603ce81e389232b0f3c242234cf3ceb8eec3fff98342325214e86cb9e9f4442b3f8848b",
+    "role": "admin",
+    "virtualBalance": 1000000
+  },
+  {
+    "_id": "cd92bfdf62c0eaf2321360ee",
+    "createdAt": "2026-09-29T10:14:36.736Z",
+    "name": "prachi",
+    "email": "prachimane@gmail.com",
+    "password": "f5f0ebebfc8ef8f50fd2d2ebd76df475:e2ab488c8d70ad5f3bf1c9b49c0d07efa6f26636d8271514b680ba43228ec51f3f1b54772757980b2bce6ec2be1f48cdb8b3e106c8cce695f5e7d6f15fa8ef94",
+    "role": "user",
+    "virtualBalance": 99538.37,
+    "updatedAt": "2026-09-29T12:04:55.298Z"
+  }
+]

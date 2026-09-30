@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "4a74a8cd153b30ef22f73e87",
+    "createdAt": "2026-09-29T08:06:40.946Z",
+    "userId": "5ab8228ff87058e6df6e2a18",
+    "symbol": "AAPL",
+    "type": "BUY",
+    "quantity": 10,
+    "pricePerShare": 226.83,
+    "totalAmount": 2268.3,
+    "timestamp": "2026-09-29T08:06:40.944Z"
+  },
+  {
+    "_id": "69291512449e0aaed01aff7a",
+    "createdAt": "2026-09-29T08:06:40.966Z",
+    "userId": "5ab8228ff87058e6df6e2a18",
+    "symbol": "AAPL",
+    "type": "SELL",
+    "quantity": 5,
+    "pricePerShare": 226.83,
+    "totalAmount": 1134.15,
+    "timestamp": "2026-09-29T08:06:40.966Z"
+  },
+  {
+    "_id": "b55a2394c86cfd978ad9c658",
+    "createdAt": "2026-09-29T09:07:01.577Z",
+    "userId": "5ab8228ff87058e6df6e2a18",
+    "symbol": "AAPL",
+    "type": "BUY",
+    "quantity": 10,
+    "pricePerShare": 249.01,
+    "totalAmount": 2490.1,
+    "timestamp": "2026-09-29T09:07:01.576Z"
+  },
+  {
+    "_id": "90ea475eb481bf785b98c209",
+    "createdAt": "2026-09-29T09:07:01.605Z",
+    "userId": "5ab8228ff87058e6df6e2a18",
+    "symbol": "AAPL",
+    "type": "SELL",
+    "quantity": 5,
+    "pricePerShare": 249.01,
+    "totalAmount": 1245.05,
+    "timestamp": "2026-09-29T09:07:01.605Z"
+  },
+  {
+    "_id": "3afc123ce83d2ea9949e9783",
+    "createdAt": "2026-09-29T10:12:13.452Z",
+    "userId": "5ab8228ff87058e6df6e2a18",
+    "symbol": "AAPL",
+    "type": "BUY",
+    "quantity": 10,
+    "pricePerShare": 219.16,
+    "totalAmount": 2191.6,
+    "timestamp": "2026-09-29T10:12:13.451Z"
+  },
+  {
+    "_id": "2dafc04e60e80bfdc82c333f",
+    "createdAt": "2026-09-29T10:12:13.484Z",
+    "userId": "5ab8228ff87058e6df6e2a18",
+    "symbol": "AAPL",
+    "type": "SELL",
+    "quantity": 5,
+    "pricePerShare": 219.16,
+    "totalAmount": 1095.8,
+    "timestamp": "2026-09-29T10:12:13.484Z"
+  },
+  {
+    "_id": "3b2919f0089088090c1d3f82",
+    "createdAt": "2026-09-29T10:24:11.644Z",
+    "userId": "cd92bfdf62c0eaf2321360ee",
+    "symbol": "AAPL",
+    "type": "BUY",
+    "quantity": 1,
+    "pricePerShare": 224.82,
+    "totalAmount": 224.82,
+    "timestamp": "2026-09-29T10:24:11.642Z"
+  },
+  {
+    "_id": "063fc25d74e8fa4d510beb12",
+    "createdAt": "2026-09-29T12:04:55.308Z",
+    "userId": "cd92bfdf62c0eaf2321360ee",
+    "symbol": "AAPL",
+    "type": "BUY",
+    "quantity": 1,
+    "pricePerShare": 236.81,
+    "totalAmount": 236.81,
+    "timestamp": "2026-09-29T12:04:55.304Z"
+  }
+]

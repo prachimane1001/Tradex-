@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "4a39c8367ce5a7c120f50cf4",
+    "createdAt": "2026-09-29T08:06:40.943Z",
+    "userId": "5ab8228ff87058e6df6e2a18",
+    "symbol": "AAPL",
+    "quantity": 15,
+    "averageBuyPrice": 230.39,
+    "totalInvested": 3455.85,
+    "updatedAt": "2026-09-29T10:12:13.483Z"
+  },
+  {
+    "_id": "9b3b6b5057263c9f657887c6",
+    "createdAt": "2026-09-29T10:24:11.640Z",
+    "userId": "cd92bfdf62c0eaf2321360ee",
+    "symbol": "AAPL",
+    "quantity": 2,
+    "averageBuyPrice": 230.81,
+    "totalInvested": 461.63,
+    "updatedAt": "2026-09-29T12:04:55.302Z"
+  }
+]

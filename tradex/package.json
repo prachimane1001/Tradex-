@@ -1,0 +1,19 @@
+{
+  "name": "tradex",
+  "version": "1.0.0",
+  "description": "TradeX - Full-stack Stock Trading Simulation Platform",
+  "main": "server.js",
+  "scripts": {
+    "start": "cmd /c \"set ELECTRON_RUN_AS_NODE=1 && \\\"C:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Programs\\\\antigravity\\\\Antigravity.exe\\\" server.js\"",
+    "test": "cmd /c \"set ELECTRON_RUN_AS_NODE=1 && \\\"C:\\\\Users\\\\Admin\\\\AppData\\\\Local\\\\Programs\\\\antigravity\\\\Antigravity.exe\\\" test-api.js\""
+  },
+  "keywords": [
+    "stock-trading",
+    "paper-trading",
+    "mern",
+    "simulation",
+    "real-time"
+  ],
+  "author": "TradeX Team",
+  "license": "MIT"
+}
